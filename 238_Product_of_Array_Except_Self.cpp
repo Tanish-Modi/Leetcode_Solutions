@@ -7,7 +7,6 @@ You must write an algorithm that runs in O(n) time and without using the divisio
 #include<iostream>
 #include<vector>
 #include<string>
-#include<map>
 #include<algorithm>
 using namespace std;
 
