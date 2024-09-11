@@ -6,8 +6,7 @@ Return the linked list after insertion.
 The greatest common divisor of two numbers is the largest positive integer that evenly divides both numbers.
 */
 #include<iostream>
-#include<vector>
-#include<string>
+#include<algorithm>
 using namespace std;
 
 
